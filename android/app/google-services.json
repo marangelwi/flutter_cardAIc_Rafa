@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868234497088",
+    "project_id": "cardaic",
+    "storage_bucket": "cardaic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868234497088:android:a180593df6529ebaf763a5",
+        "android_client_info": {
+          "package_name": "com.mycompany.cardaicpaciente1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXYi7bJOSMUToMYRahsczv_hby1zAFFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
